@@ -57,7 +57,7 @@
             "enabled" : true,
             "fullname" : "root",
             "max_days_between_password_change" : 90,
-            "min_days_between_password_change" : 6,
+            "min_days_between_password_change" : 7,
             "roles" : [ "superAdmin" ],
             "warn_days_before_password_expiration" : 7
           }
