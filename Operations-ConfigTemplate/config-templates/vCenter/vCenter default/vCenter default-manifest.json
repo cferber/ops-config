@@ -1,0 +1,7 @@
+{
+  "contentName": "vCenter default",
+  "id": "71307cf8-7ec2-4f74-96ae-24e6cc4b4873",
+  "contentType": "Operations-ConfigTemplate",
+  "keyValues": {"location": "vCenter%2FvCenter default"},
+  "descendents": []
+}
