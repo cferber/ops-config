@@ -26,7 +26,7 @@
         },
         "network" : {
           "dns_server_configuration" : {
-            "domains" : [ "sfo.rainpole.io", "rainpole.io" ],
+            "domains" : [ "sfo.rainpole.io", "rainpole.io", "vmware.for.ever" ],
             "mode" : "IS_STATIC",
             "servers" : [ "10.11.10.4", "10.11.10.5" ]
           },
