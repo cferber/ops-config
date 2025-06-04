@@ -1,0 +1,23 @@
+{
+  "config" : {
+    "vcenter" : {
+      "appliance" : {
+        "user_account_settings" : {
+          "root_account_policy" : {
+            "roles" : [ "superAdmin" ],
+            "enabled" : true,
+            "fullname" : "root",
+            "max_days_between_password_change" : 90,
+            "min_days_between_password_change" : 0,
+            "warn_days_before_password_expiration" : 7
+          },
+          "local_accounts_policy" : {
+            "max_days" : 90,
+            "min_days" : 2,
+            "warn_days" : 7
+          }
+        }
+      }
+    }
+  }
+}
