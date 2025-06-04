@@ -1,0 +1,29 @@
+{
+  "selectedConfig" : {
+    "config" : {
+      "vcenter" : {
+        "appliance" : {
+          "user_account_settings" : {
+            "root_account_policy" : {
+              "email" : "string",
+              "roles" : [ "string" ],
+              "enabled" : false,
+              "fullname" : "string",
+              "max_days_between_password_change" : 0,
+              "min_days_between_password_change" : 0,
+              "warn_days_before_password_expiration" : 0
+            },
+            "local_accounts_policy" : {
+              "max_days" : 0,
+              "min_days" : 0,
+              "warn_days" : 0
+            }
+          }
+        }
+      }
+    }
+  },
+  "description" : "",
+  "sourceResourceId" : "8234f8dc-22c8-4f2d-ba3d-1d7a88b5658e",
+  "configVersion" : "9.0.0.24700475"
+}
