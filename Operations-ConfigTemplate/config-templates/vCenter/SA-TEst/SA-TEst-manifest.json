@@ -1,0 +1,7 @@
+{
+  "contentName": "SA-TEst",
+  "id": "0d5dab87-0b4c-4c00-a7c9-31acc904163f",
+  "contentType": "Operations-ConfigTemplate",
+  "keyValues": {"location": "vCenter%2FSA-TEst"},
+  "descendents": []
+}
