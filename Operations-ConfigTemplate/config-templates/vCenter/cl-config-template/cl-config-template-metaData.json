@@ -1,0 +1,30 @@
+{
+  "selectedConfig" : {
+    "config" : {
+      "vcenter" : {
+        "authmgmt" : {
+          "lockout_policy" : {
+            "unlock_time" : 0,
+            "failure_interval" : 0,
+            "failed_login_attempts" : 0
+          },
+          "password_policy" : {
+            "max_life" : 0,
+            "max_length" : 0,
+            "min_length" : 0,
+            "alpha_chars" : 0,
+            "numeric_chars" : 0,
+            "special_chars" : 0,
+            "password_reuse" : 0,
+            "lowercase_chars" : 0,
+            "uppercase_chars" : 0,
+            "adj_identical_chars" : 0
+          }
+        }
+      }
+    }
+  },
+  "description" : "",
+  "sourceResourceId" : "36f1fc57-071d-43b1-89f8-a9e6c8faf870",
+  "configVersion" : "9.0.0.24755230"
+}

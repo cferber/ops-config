@@ -1,0 +1,25 @@
+{
+  "config" : {
+    "vcenter" : {
+      "authmgmt" : {
+        "lockout_policy" : {
+          "unlock_time" : 300,
+          "failure_interval" : 180,
+          "failed_login_attempts" : 5
+        },
+        "password_policy" : {
+          "max_life" : 90,
+          "max_length" : 15,
+          "min_length" : 8,
+          "alpha_chars" : 2,
+          "numeric_chars" : 1,
+          "special_chars" : 1,
+          "password_reuse" : 5,
+          "lowercase_chars" : 1,
+          "uppercase_chars" : 1,
+          "adj_identical_chars" : 3
+        }
+      }
+    }
+  }
+}
