@@ -1,0 +1,7 @@
+{
+  "contentName": "cl-config-template",
+  "id": "5edb9cdc-2c51-46b0-9ab9-c1dd73c9230a",
+  "contentType": "Operations-ConfigTemplate",
+  "keyValues": {"location": "vCenter%2Fcl-config-template"},
+  "descendents": []
+}
